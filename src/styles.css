@@ -1,0 +1,28 @@
+body{
+    background: #e7eaf6;
+    
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-decoration: underline;
+    text-align: center;
+}
+a {
+    padding: 10px;
+    background: #38598b;
+    border-radius: 4px;
+    font-size: 16px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    background: #e7eaf6;
+    color: #38598b;
+    
+}
+.links{
+    text-align: center;
+}
